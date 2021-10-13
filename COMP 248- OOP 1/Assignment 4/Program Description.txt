@@ -1,0 +1,5 @@
+The purpose of this program is to write a battle game application.
+
+The AssignmentFour.java is the driver file
+
+The Creature.java is the Creature class implementation

@@ -6,7 +6,7 @@
 /* The purpose of this program is to write a java code than can randomly generate a magic square, a 3x3 matrix, whose columns, rows, and 2 diagonals 
    all have the same sum and each number occurs only once.
 */
-public class QuestionOne {
+public class MagicMatrix {
 
 	public static void main(String[] args) {
 		
