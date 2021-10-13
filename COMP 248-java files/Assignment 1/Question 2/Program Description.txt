@@ -1,0 +1,2 @@
+This program reads two words from the user, performs some string manipulations twice,
+then returns the two encrypted words.

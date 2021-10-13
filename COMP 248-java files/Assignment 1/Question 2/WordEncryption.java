@@ -5,7 +5,7 @@
 // -----------------------------------------------------------------------------------------------------------------------
 import java.util.Scanner; // we need to import this class
 
-public class SecondQuestion {
+public class WordEncryption {
 
 	public static void main(String[] args) {
 		

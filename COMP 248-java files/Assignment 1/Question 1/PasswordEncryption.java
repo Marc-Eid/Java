@@ -6,7 +6,7 @@
 
 import java.util.Scanner; // we need to import this class
 
-public class FirstAssignment {
+public class PasswordEncryption {
 
 	
 	public static void main(String[] args) {
