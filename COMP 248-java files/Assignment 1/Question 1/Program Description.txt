@@ -1,0 +1,2 @@
+This program takes in a 6 digit number and does a series of manipulations.
+it returns the manipulated number to the user. 
