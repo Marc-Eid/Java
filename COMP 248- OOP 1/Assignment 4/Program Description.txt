@@ -1,4 +1,4 @@
-The purpose of this program is to write a battle game application.
+The purpose of this program is to practice defining classes and creating objects, through writing a battle game application.
 
 The AssignmentFour.java is the driver file
 
