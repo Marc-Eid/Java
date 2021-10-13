@@ -1,0 +1,8 @@
+This program simulates an online ordering system.
+It asks the user to choose a food from the menu,
+
+In addition it asks the user if they want any extra meat.
+
+It also asks if the user wants to add some tips.
+
+Finally, it displays the delivery fee along with the total fee.

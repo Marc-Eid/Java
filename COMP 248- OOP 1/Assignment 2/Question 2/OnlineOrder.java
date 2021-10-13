@@ -96,7 +96,7 @@ public class OnlineOrder {
 		
 		//ask user and store their answer for the topping
 		String answer1;
-		System.out.print("would you like to have some meat on your " + food + "? ");
+		System.out.print("would you like to have some meat on your " + food + "?(yes/no) ");
 		answer1 = keyIn.next();
 		
 		
