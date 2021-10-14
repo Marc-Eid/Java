@@ -1,0 +1,22 @@
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JButton;
+
+public class studying {
+
+	public static void main(String[] args)  {
+
+	
+		FirstWindow w = new FirstWindow();
+		w.setVisible(true);
+
+		JLabel greeting  = new JLabel("Greeting from the programmer marc eid");
+		add(greeting);
+		
+		
+		
+		
+	}
+}
+
+

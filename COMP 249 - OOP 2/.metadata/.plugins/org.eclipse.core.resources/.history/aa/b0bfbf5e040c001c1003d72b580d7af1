@@ -1,0 +1,19 @@
+
+public class  Child{
+
+	public void one() {
+
+		System.out.println("A");
+		super.one();
+	}
+
+	public void two() {
+		System.out.println("E");
+	}
+
+
+}
+
+
+
+
