@@ -1,0 +1,17 @@
+In this Assignment we made several classes of different transportations methods. 
+
+The mains topics that were covered:
+	1. Inhritance
+	2. Polymorphism
+	3. Encapsulation
+	4. Abstract Classes
+	5. Varags 
+	6. Enums
+
+
+
+The difference between these 2 parts is in part 1, the attributes in the classes have the protected modifer. thus we were able to use their names
+in the subclasses.
+
+on the other hand in part 2 we respected encapsulation more and improved privacy by making these attributes private. We referenced them using getters
+and setters methods.
