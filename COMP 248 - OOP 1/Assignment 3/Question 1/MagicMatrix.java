@@ -1,6 +1,6 @@
 // -----------------------------------------------------------------------------------------------------------------------
 // Assignment #3 Question 1
-// Written by: Marc Eid 40153034
+// Written by: Marc Eid
 // For COMP 248 section A - Winter 2021
 // -----------------------------------------------------------------------------------------------------------------------
 /* The purpose of this program is to write a java code than can randomly generate a magic square, a 3x3 matrix, whose columns, rows, and 2 diagonals 
