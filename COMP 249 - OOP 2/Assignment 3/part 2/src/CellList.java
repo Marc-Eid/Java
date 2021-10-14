@@ -1,7 +1,7 @@
 // ----------------------------------------------------------------------------------------
 // Assignment #3 - COMP 249
 // Part 2
-// Written by: Marc Eid 40153034
+// Written by: Marc Eid
 // Due Date: Thursday 19 August
 //-----------------------------------------------------------------------------------------
 import java.util.NoSuchElementException;
