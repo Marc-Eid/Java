@@ -1,6 +1,6 @@
 // -----------------------------------------------------------------------------------------------------------------------
 // Assignment #2 Question 1
-// Written by: Marc Eid 40153034
+// Written by: Marc Eid
 // For COMP 248 section A - Winter 2021
 // -----------------------------------------------------------------------------------------------------------------------
 // The purpose of this program is to estimate the letter grade based on Concordia undergraduate grading system.
