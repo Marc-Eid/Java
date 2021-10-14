@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"package4","l":"AirCraft"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"AssignmentOne"},{"p":"package2","l":"CityBus"},{"p":"package3","l":"Ferry"},{"p":"package2","l":"Metro"},{"p":"package1","l":"PublicTransportation"},{"p":"package2","l":"Tram"}];updateSearchResults();
