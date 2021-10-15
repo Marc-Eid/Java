@@ -1,0 +1,6 @@
+In this Assignment we made a dispatch program. this program loads a truck with packages...etc.
+
+The topics that were covered:
+	1. Exceptions handling
+	2. Abstract Classes
+	3. Interfaces

@@ -1,13 +1,13 @@
 In this Assignment we made several classes of different transportations methods. 
 
-The mains topics that were covered:
+The main topics that were covered:
 	1. Inhritance
 	2. Polymorphism
 	3. Encapsulation
 	4. Abstract Classes
 	5. Varags 
 	6. Enums
-
+	7. Overriding the toString and equals methods
 
 
 The difference between these 2 parts is in part 1, the attributes in the classes have the protected modifer. thus we were able to use their names

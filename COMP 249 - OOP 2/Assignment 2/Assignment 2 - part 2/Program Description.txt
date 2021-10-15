@@ -1,0 +1,8 @@
+This program reads the content of a file and checks for duplicate serial numbers, if found any duplicates, prompt the user to enter a new number. if the 
+number entered is already in the file, it keeps on prompting the user until they enter a new serial number. it finally corrects the 
+file so that it doesnt have any duplicates.
+
+Main topic covered:
+	1. Reading/Writing to files
+	2. Exception Handling
+
