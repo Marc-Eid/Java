@@ -1,0 +1,7 @@
+In this assignment we created a program that creates a list of Cellphones along with their description.
+We implemented our own linked list so that each node has more than just one attribute. 
+
+the main topics acovered:
+	1. LinkedLists
+	2. Cloning. i.e. returning deep copies of linkedlists
+	3. Inner Classes

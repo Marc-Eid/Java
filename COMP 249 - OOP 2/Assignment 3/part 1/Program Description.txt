@@ -1,0 +1,5 @@
+This program takes in a file of words.
+then creates a new file with the words in the input file lexicographically sorted.
+
+Main topics:
+	1. ArrayList<E>
