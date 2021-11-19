@@ -1,0 +1,8 @@
+The   5th oddonacci number: 5                              time it took : 22 ms
+The  10th oddonacci number: 105                            time it took : 0 ms
+The  15th oddonacci number: 2209                           time it took : 0 ms
+The  20th oddonacci number: 46499                          time it took : 0 ms
+The  25th oddonacci number: 978793                         time it took : 2 ms
+The  30th oddonacci number: 20603361                       time it took : 32 ms
+The  35th oddonacci number: 433695873                      time it took : 698 ms
+The  40th oddonacci number: 9129195487                     time it took : 14176 ms
