@@ -1,0 +1,4 @@
+The purpose of this program is to determine which data structure is the most
+suitable to use in the specific problem and requirements.
+
+The data strucutre constucted was an AVL tree. 
