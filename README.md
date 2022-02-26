@@ -6,3 +6,7 @@ The assignments for this course cover basic programming principls.
 
 COMP 249 - OOP 2
 The assignments for this course start to actually cover the principles of Object-Oriented programmning. i.e. Inheritence, polymorphism, and Encapsulation. 
+
+COMP 352 - Data Structures & Algorithms
+The assignments of this course cover data structures, recursion, and time-complexities.
+
