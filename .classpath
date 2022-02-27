@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Advent of Code 2021/December/05"/>
+	<classpathentry kind="src" path="COMP 248 - OOP 1/Assignment 1/Question 1"/>
+	<classpathentry kind="src" path="COMP 248 - OOP 1/Assignment 1/Question 2"/>
+	<classpathentry kind="src" path="COMP 248 - OOP 1/Assignment 2/Question 1"/>
+	<classpathentry kind="src" path="COMP 248 - OOP 1/Assignment 2/Question 2"/>
+	<classpathentry kind="src" path="COMP 248 - OOP 1/Assignment 3"/>
+	<classpathentry kind="src" path="COMP 248 - OOP 1/Assignment 4"/>
+	<classpathentry kind="src" path="COMP 249 - OOP 2/Assignment 1/Assignment 1 - part 1"/>
+	<classpathentry kind="src" path="COMP 249 - OOP 2/Assignment 1/Assignment 1 - part 2"/>
+	<classpathentry kind="src" path="COMP 249 - OOP 2/Assignment 2/Assignment 2 - part 1/src"/>
+	<classpathentry kind="src" path="COMP 249 - OOP 2/Assignment 2/Assignment 2 - part 2/src"/>
+	<classpathentry kind="src" path="COMP 249 - OOP 2/Assignment 3/part 1/src"/>
+	<classpathentry kind="src" path="COMP 249 - OOP 2/Assignment 3/part 2/src"/>
+	<classpathentry kind="src" path="COMP 348 - Operating Systems/AssignmentTwo/src"/>
+	<classpathentry kind="src" path="COMP 352 - Data Structures &amp; Algorithms/Assignment 1"/>
+	<classpathentry kind="src" path="COMP 352 - Data Structures &amp; Algorithms/Assignment 2"/>
+	<classpathentry kind="output" path="COMP 348 - Operating Systems/AssignmentTwo/bin"/>
+</classpath>
