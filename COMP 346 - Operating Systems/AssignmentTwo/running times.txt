@@ -1,0 +1,45 @@
+using semaphores 3 threads 
+
+ Terminating client sending thread - running time 234 milliseconds
+
+ Terminating client receiving thread - running time 340 milliseconds
+
+ Terminating server thread Three -  Running time 357 milliseconds
+
+ Terminating server thread Two -  Running time 358 milliseconds
+
+ Terminating server thread One -  Running time 358 milliseconds
+
+ Terminating network thread - Client disconnected Server disconnected
+
+
+==============================================
+
+using semaphores 2 threads 
+
+ Terminating client sending thread - running time 331 milliseconds
+
+ Terminating client receiving thread - running time 439 milliseconds
+
+ Terminating server thread One -  Running time 447 milliseconds
+
+ Terminating server thread Two -  Running time 447 milliseconds
+
+ Terminating network thread - Client disconnected Server disconnected
+
+
+==============================================
+using busy-wait 2 threads
+
+ Terminating client sending thread - running time 341 milliseconds
+
+ Terminating client receiving thread - running time 447 milliseconds
+
+ Terminating server thread One -  Running time 460 milliseconds
+
+ Terminating server thread Two -  Running time 460 milliseconds
+
+ Terminating network thread - Client disconnected Server disconnected
+
+
+==============================================
